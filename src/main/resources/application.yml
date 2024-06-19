@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: dynamo_spring_package
+
+aws:
+  dynamodb:
+    accessKey: your aws access key
+    secretKey: your aws secret key
